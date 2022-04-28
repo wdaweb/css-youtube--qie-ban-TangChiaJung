@@ -82,6 +82,7 @@ hr{
     height: 40px;
     font-size: 14px;
     padding-left: 50px;
+    cursor: pointer;
     /* border:  1px solid white; */
 }
 
